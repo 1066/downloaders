@@ -1,3 +1,4 @@
+# Downloader
 I originaly came up with this idea because I wanted an easy way to download 
 entire course videos from Lynda.com.
 
